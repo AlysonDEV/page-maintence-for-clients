@@ -10,6 +10,8 @@ Pensei em fazer uma manutenação noturna porém é nescessário deixar um pági
 
 - [x] Para o desenvolvimento usei as seguinte tecnolgias: ReactJS, Tyscript, NextJS, Tailwind e React-Icons/Remix Icons
 
+- [x] Deploy: [![Netlify Status](https://api.netlify.com/api/v1/badges/d353b88f-5db3-423d-8e1f-cba19d4e3fd3/deploy-status)](https://app.netlify.com/sites/page-maintenance-for-clients/deploys)
+
 ## Iniciar o projeto
 
 Para rodar o projeto em modo desenvolvedor:
