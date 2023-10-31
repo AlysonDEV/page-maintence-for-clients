@@ -5,8 +5,8 @@ import ImgLogo from './logo.webp'
 
 export default function Home() {
   return (
-    <main className="text-sm sm:text-base flex min-h-screen flex-col items-center justify-center p-24 bg-hero-pattener bg-cover m-auto">
-      <div className="bg-white/60  backdrop-blur shadow-lg border rounded-3xl text-black flex flex-col justify-center text-center p-9 items-center">
+    <main className="text-sm sm:text-base flex min-h-screen flex-col items-center justify-center p-24 bg-hero-pattener bg-cover bg-top m-auto">
+      <div className="bg-white/60 shadow-custom backdrop-blur shadow-lg border rounded-3xl text-black flex flex-col justify-center text-center p-9 items-center">
         <Image 
           src={ImgLogo} 
           alt='Logo da escola técnica, letra i com um circulo em volta nas cores amarelas e vermelhas' 
@@ -49,7 +49,7 @@ export default function Home() {
           </address>
         </div>
       </div>
-      <div className='bg-green-700  p-4 rounded-full hover:scale-105 hover:bg-green-800 transition-all absolute bottom-4 right-4'>
+      <div className='bg-green-700  p-4 rounded-full hover:scale-105 hover:bg-green-800 transition-all absolute bottom-4 right-4 shadow-custom-whatsapp'>
         <a href="https://wa.me/5585992284097?Text=Olá, gostaria de informações sobre os cursos oferecidos.">
           <RiWhatsappFill size={40}/>
         </a>
