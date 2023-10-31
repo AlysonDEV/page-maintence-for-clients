@@ -4,11 +4,11 @@ O site esta precisando de manutenção urgente então estou programando uma manu
 Pensei em fazer uma manutenação noturna porém é nescessário deixar um página temporária para manutenções futuras.
 
 ## Como desenvolvi?
-[x] - Criei uma imagem usando inteligência artifical pelo site [leonard.ai](https://leonard.ai).
+- [x] Criei uma imagem usando inteligência artifical pelo site [leonard.ai](https://leonard.ai).
 
-[x] - Fiz uma edição na imagem usando o programa GIMP (código aberto e gratuito).
+- [x] Fiz uma edição na imagem usando o programa GIMP (código aberto e gratuito).
 
-[x] - Para o desenvolvimento usei as seguinte tecnolgias: ReactJS, Tyscript, NextJS, Tailwind e React-Icons/Remix Icons
+- [x] Para o desenvolvimento usei as seguinte tecnolgias: ReactJS, Tyscript, NextJS, Tailwind e React-Icons/Remix Icons
 
 ## Iniciar o projeto
 
