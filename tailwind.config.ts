@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       backgroundImage: {
-        'hero-pattener': "url('/image-maintence.png')",
+        'hero-pattener': "url('/image-maintence.jpg')",
       },
     },
   },
